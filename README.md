@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi criado usando conceitos de manipulação da DOM, fazendo um cálculo e mostrando o resultado para o usuário em uma janela modal.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://nahblue.github.io/js-imc-calculator/)
 
 ## :memo: Licença
 
