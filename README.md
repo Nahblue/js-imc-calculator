@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora de IMC</h1>
 
 <p align="center">
-Projeto de SPA onde o usuário pode fazer o cálculo do seu IMC, inserindo seu peso em quilos e sua altura em centímetros.<br/>
+Projeto onde o usuário pode fazer o cálculo do seu IMC, inserindo seu peso em quilos e sua altura em centímetros.<br/>
 </p>
 
 <p align="center">
